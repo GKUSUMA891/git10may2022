@@ -1,0 +1,5 @@
+#iniclude<stdio.h>
+int main()
+{
+printf("git commands");
+}
